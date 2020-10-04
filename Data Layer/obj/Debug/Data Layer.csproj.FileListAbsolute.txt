@@ -1,0 +1,12 @@
+C:\Users\LazarStarco\Desktop\Projects\Danko\CarService\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\LazarStarco\Desktop\Projects\Danko\CarService\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\LazarStarco\Desktop\Projects\Danko\CarService\Data Layer\obj\Debug\Data Layer.csprojAssemblyReference.cache
+C:\Users\LazarStarco\Desktop\Projects\Danko\CarService\Data Layer\obj\Debug\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\LazarStarco\Desktop\Projects\Danko\CarService\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\LazarStarco\Desktop\Projects\Danko\CarService\Data Layer\obj\Debug\Data Layer.pdb
+C:\Users\LazarStarco\Desktop\Important\FTN\III godina\SI\Projects\Nastic\CarService\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\LazarStarco\Desktop\Important\FTN\III godina\SI\Projects\Nastic\CarService\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\LazarStarco\Desktop\Important\FTN\III godina\SI\Projects\Nastic\CarService\Data Layer\obj\Debug\Data Layer.csprojAssemblyReference.cache
+C:\Users\LazarStarco\Desktop\Important\FTN\III godina\SI\Projects\Nastic\CarService\Data Layer\obj\Debug\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\LazarStarco\Desktop\Important\FTN\III godina\SI\Projects\Nastic\CarService\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\LazarStarco\Desktop\Important\FTN\III godina\SI\Projects\Nastic\CarService\Data Layer\obj\Debug\Data Layer.pdb
